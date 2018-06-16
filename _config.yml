@@ -3,7 +3,7 @@
 blog_theme: dark # Or use dark
 name: Mike Simpson
 paginate: 25
-url: mikesimps.github.io # add your site url (format: https://example.com)
+url: https://mikesimps.com # add your site url (format: https://example.com)
 
 
 # Optional settings
