@@ -1,4 +1,0 @@
----
-slug: apex
-name: Apex
----

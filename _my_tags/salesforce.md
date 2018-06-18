@@ -1,4 +1,0 @@
----
-slug: salesforce
-name: Salesforce
----
