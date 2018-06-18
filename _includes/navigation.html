@@ -162,6 +162,13 @@
         </a>
       </li>
     {% endif %}
+    {% if site.social.haystack %}
+      <li>
+        <a href="https://contacts.thehaystackapp.com/items/{{ site.social.haystack }}" rel="noreferrer noopener" target="_blank" title="Haystack">
+          {% include svg-icon.html icon="haystack" %}
+        </a>
+      </li>
+    {% endif %}
     {% if site.rss_enabled == true %}
       <li>
         <a href="{{ 'feed.xml' | relative_url }}" rel="noreferrer noopener" target="_blank" title="RSS">
